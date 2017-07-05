@@ -1,4 +1,5 @@
 /* Bootstrap Customize */
+
 /* JALEL HEADER*/
 #homeHeading
 {
@@ -48,6 +49,38 @@ margin: 50px 0;
   color: #7F7777;
 }
 /* END TCHENY CSS*/
+
+/*PARTIE SHAMILA : GALERIE D'IMAGES*/
+
+.col-md-4 {
+  padding: 0;
+}
+
+#dl-section {
+  background-color: #222222;
+  height: 205px;
+  text-align: center;
+}
+
+#dl-section p {
+  color: #FFFFFF;
+  padding-top: 45px;
+  font-size: 30px;
+  margin-bottom: 25px;
+}
+
+#dl-section a {
+  background-color: #FFF;
+  color: #000;
+  border-radius: 50px;
+  padding: 15px 30px;
+  font-weight: bold;
+}
+
+#dl-section a:hover {
+  text-decoration: none;
+}
+/*FIN PARTIE SHAMILA*/
 
 /* PRESCISE */
 .footer{
