@@ -1,4 +1,51 @@
 /* Bootstrap Customize */
+body{
+  padding: 0;
+  margin: 0;
+  background-color: black;
+font-size: 15px
+
+}
+
+
+h2{
+  width:300px;
+  position:absolute;
+  font-size: 15px;
+  margin-bottom: auto;
+  color:rgba(255,255,255,.7);
+}
+
+h2:hover{
+  color:white;
+}
+
+#navbar.menu nav ul {
+    float: right;
+    width: 450px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    height: 30px;
+    line-height:30px;
+  }
+
+#navbar.menu a{
+    display: block;
+    color:rgba(255,255,255,.7);
+    text-decoration: none;
+    margin-top: 23px;
+
+
+  }
+
+ #navbar.menu a:hover{
+    color:white;
+  }
+
+  #navbar.menu li{
+    list-style-type: none;
+  }
 
 /* JALEL HEADER*/
 #homeHeading
