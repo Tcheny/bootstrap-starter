@@ -52,6 +52,10 @@ margin: 50px 0;
 
 /*PARTIE SHAMILA : GALERIE D'IMAGES*/
 
+#galerie img {
+  width: 100%;
+}
+
 .col-md-4 {
   padding: 0;
 }
