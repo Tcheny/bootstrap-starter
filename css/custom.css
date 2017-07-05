@@ -40,3 +40,58 @@ margin: 50px 0;
   color: #7F7777;
 }
 /* END TCHENY CSS*/
+
+/* PRESCISE */
+.footer{
+  width: 100%;
+  height: 400px;
+  background-color: #ffffff;
+}
+
+.text p{
+  text-align: center;
+  margin-top: 50px;
+}
+
+h1 {
+  font-size: 25px;
+  text-align: center;
+  margin-top: 60px;
+}
+
+hr{
+  width: 0px;
+  height: 5px;
+  color: orange;
+  background-color: orange;
+}
+
+img{
+  width: 50px;
+  height: 50px;
+}
+.icone-enveloppe{
+  float: right;
+  margin-right: 230px;
+  color: orange;
+}
+
+.icone-telephone{
+  float: left;
+  margin-left: 390px;
+}
+.fa {
+  font-size: 300%;
+  color: #000;
+}
+
+.text-t{
+margin-left: 360px;
+margin-top: 100px;
+}
+
+.text-e{
+  margin-right: 100px;
+  margin-top: 10px;
+}
+/* END PRESCISE */
