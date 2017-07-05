@@ -1,1 +1,41 @@
 /* Bootstrap Customize */
+/*
+color: #F05F40;
+*/
+#service
+{
+  text-align: center;
+}
+#service .container
+{
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+#service .title
+{
+  margin: 30px;
+}
+#service h2
+{
+  margin: 20px 0;
+}
+#service .separator
+{
+  margin: auto;
+  width: 60px;
+  border: 1.5px solid #F05F40;
+}
+#service .row
+{
+margin: 50px 0;
+}
+#service .fa
+{
+  font-size: 350%;
+  color: #F05F40;
+}
+#service p
+{
+  font-size: 120%;
+  color: #7F7777;
+}
